@@ -1,0 +1,363 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Margarine" ;
+
+    
+    
+}
+
+body{
+    background-image: url(./images/pngtree-cosmetic-lipstick-makeup-brush-pink-background-image_768166.jpg);
+    background-repeat: no-repeat;
+    background-size: 140%;
+    
+}
+
+.color{
+    padding-left: 40%;
+    font-size: 50px;
+    color:aqua;
+}
+
+
+
+
+.h2{
+    margin-left: 45%;
+    margin-top: 20px;
+    color: blue;
+}
+
+.color1 , .color2 , .color3 , .color4 , .color5 , .color6 , .color7 , .color8 , .color9 , .color10 , .color11 , .color12 , .color13 , .color14 , .color15 , .color16 , .color17 , .color18 , .color19 , .color20 , .color21 , .color22 , .color23 , .color24 , .color25 , .color26 , .color27 , .color28 , .color29 , .color30 , .color31 , .color32 , .color33 , .color34 , .color35 , .color36 , .color37 , .color38 , .color39 , .color40 , .color41 , .color42 , .color43 , .color44 , .color45 , .color46 , .color47 , .color48 { 
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    position: absolute;
+    border: 2px solid white;
+    
+    
+}
+
+.color1{
+    background-color: #00008C;
+    left: 45%;
+    top: 20%;
+
+}
+
+.color2{
+    background-color: #2234A8;
+    left: 48%;
+    top: 20%;
+}
+
+.color3{
+    background-color: #1750AC;
+    left: 51%;
+    top: 20%;
+}
+
+.color4{
+    background-color:  #4467C4;
+    left: 54%;
+    top: 20%;
+}
+
+.color5{
+    background-color: #3373C4;
+    left: 57%;
+    top: 20%;
+}
+
+.color6{
+    background-color: #5494DA;
+    left: 60%;
+    top: 20%;
+}
+
+.color7{
+    background-color: #73B9EE;
+    left: 63%;
+    top: 20%;
+
+}
+
+.color8{
+    background-color: #87CEFB;
+    left: 66%;
+    top: 20%;
+
+}
+
+.h3{
+    margin-top: 135px;
+    margin-left: 45%;
+    color: red;
+}
+
+.color9{
+    background-color: #370002;
+    margin-top: 30px;
+    margin-left: 45%;
+}
+
+.color10{
+    background-color: #53000E;
+    margin-top: 30px;
+    margin-left: 48%;
+}
+
+.color11{
+    background-color: #6F0023;
+    margin-top: 30px;
+    margin-left: 51%;
+}
+
+.color12{
+    background-color: #8D0039;
+    margin-top: 30px;
+    margin-left: 54%;
+}
+
+.color13{
+    background-color: #AA104F;
+    margin-top: 30px;
+    margin-left: 57%;
+}
+
+.color14{
+    background-color: #C93667;
+    margin-top: 30px;
+    margin-left: 60%;
+}
+
+.color15{
+    background-color: #E75480;
+    margin-top: 30px;
+    margin-left: 63%;
+}
+
+.color16{
+    background-color: #E76B90;
+    margin-top: 30px;
+    margin-left: 66%;
+}
+
+.h4{
+    margin-top: 135px;
+    margin-left: 45%;
+    color: green;
+}
+
+.color17{
+    background-color: #0a5d00;
+    margin-top: 30px;
+    margin-left: 45%;
+}
+
+.color18{
+    background-color: #089000;
+    margin-top: 30px;
+    margin-left: 48%;
+}
+
+.color19{
+    background-color: #00C301;
+    margin-top: 30px;
+    margin-left: 51%;
+}
+
+.color20{
+    background-color: #26D701;
+    margin-top: 30px;
+    margin-left: 54%;
+}
+
+.color21{
+    background-color: #4DED30;
+    margin-top: 30px;
+    margin-left: 57%;
+}
+
+.color22{
+    background-color: #7CFc00;
+    margin-top: 30px;
+    margin-left: 60%;
+}
+
+.color23{
+    background-color: #95F985;
+    margin-top: 30px;
+    margin-left: 63%;
+}
+
+.color24{
+    background-color: #B7FFBF;
+    margin-top: 30px;
+    margin-left: 66%;
+}
+
+.h5{
+    margin-top: 135px;
+    margin-left: 45%;
+    color: #5d1c59;
+}
+
+.color25{
+    background-color: #5d1c59;
+    margin-top: 30px;
+    margin-left: 45%;
+}
+
+.color26{
+    background-color: #692065;
+    margin-top: 30px;
+    margin-left: 48%;
+}
+
+.color27{
+    background-color: #7c2677;
+    margin-top: 30px;
+    margin-left: 51%;
+}
+
+.color28{
+    background-color: #892a83;
+    margin-top: 30px;
+    margin-left: 54%;
+}
+
+.color29{
+    background-color: #9b3095;
+    margin-top: 30px;
+    margin-left: 57%;
+}
+
+.color30{
+    background-color: #ae35a7;
+    margin-top: 30px;
+    margin-left: 60%;
+}
+
+.color31{
+    background-color: #c440bc;
+    margin-top: 30px;
+    margin-left: 63%;
+}
+
+.color32{
+    background-color: #cd60c7;
+    margin-top: 30px;
+    margin-left: 66%;
+}
+
+.h6{
+    margin-top: 135px;
+    margin-left: 45%;
+    color: #C0009B;
+}
+
+.color33{
+    background-color: #810C69;
+    margin-top: 30px;
+    margin-left: 45%;
+}
+
+.color34{
+    background-color: #C0009B;
+    margin-top: 30px;
+    margin-left: 48%;
+}
+
+.color35{
+    background-color: #E600BB;
+    margin-top: 30px;
+    margin-left: 51%;
+}
+
+.color36{
+    background-color: #FF00CD;
+    margin-top: 30px;
+    margin-left: 54%;
+}
+
+.color37{
+    background-color: #FF31D6;
+    margin-top: 30px;
+    margin-left: 57%;
+}
+
+.color38{
+    background-color: #FF5BDF;
+    margin-top: 30px;
+    margin-left: 60%;
+}
+
+.color39{
+    background-color: #FF7EE5;
+    margin-top: 30px;
+    margin-left: 63%;
+}
+
+.color40{
+    background-color: #FFBFF3;
+    margin-top: 30px;
+    margin-left: 66%;
+}
+
+.h7{
+    margin-top: 135px;
+    margin-left: 45%;
+    color: #bb4a00;
+}
+
+.color41{
+    background-color: #e45a00;
+    margin-top: 30px;
+    margin-left: 45%;
+}
+
+.color42{
+    background-color: #fc6400;
+    margin-top: 30px;
+    margin-left: 48%;
+}
+
+.color43{
+    background-color: #ff7216;
+    margin-top: 30px;
+    margin-left: 51%;
+}
+
+.color44{
+    background-color: #ff812e;
+    margin-top: 30px;
+    margin-left: 54%;
+}
+
+.color45{
+    background-color: #ff9047;
+    margin-top: 30px;
+    margin-left: 57%;
+}
+
+.color46{
+    background-color: #ff9f5f;
+    margin-top: 30px;
+    margin-left: 60%;
+}
+
+.color47{
+    background-color: #ffad78;
+    margin-top: 30px;
+    margin-left: 63%;
+}
+
+.color48{
+    background-color: #ffbc90;
+    margin-top: 30px;
+    margin-left: 66%;
+}
